@@ -832,6 +832,11 @@ video {
   color: rgb(212 212 212 / var(--tw-text-opacity));
 }
 
+.hover\:text-neutral-400:hover {
+  --tw-text-opacity: 1;
+  color: rgb(163 163 163 / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:flex-row {
     flex-direction: row;
