@@ -1,12 +1,13 @@
 <footer class="p-6" style="background-color: #223843;">
     <div class="container mx-auto">
         <div class="space-y-2">
-            <div class="flex flex-col md:flex-row justify-between items-center">
+            <div class="flex flex-col md:flex-row justify-between items-center space-y-3 md:space-y-0">
                 <div>
-                    <h1 class="text-5xl text-white">{{ site.email }}</h1>
+                    <h1 class="text-2xl text-neutral-400 text-center md:text-left">Email</h1>
+                    <a href="{{'mailto:site.email'}}" ><h1 class="text-3xl md:text-5xl text-white">{{ site.email }}</h1></a>
                 </div>
-                <div class="flex flex-col text-white">
-                    <h1 class="text-neutral-400 mb-4">Navigation</h1>
+                <div class="flex flex-col text-white mt-10 md:mt-0">
+                    <h1 class="text-neutral-400 mb-0 md:mb-4">Navigation</h1>
                     <div class="hover:text-neutral-300 py-1 cursor-pointer transition-all"><a class="" href="#">About Me</a></div>
                     <div class="hover:text-neutral-300 py-1 cursor-pointer transition-all"><a class="" href="#">Publications</a></div>
                     <div class="hover:text-neutral-300 py-1 cursor-pointer transition-all"><a class="" href="#">Teachings</a></div>
