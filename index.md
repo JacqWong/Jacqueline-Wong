@@ -4,6 +4,11 @@ title: "Jacqueline Wong's Personal Webpage"
 
 # Navbar
 
+sub-heading: Assistant Professor | Utrecht University, The Netherlands
+
+
+# About Page
+
 Para-1 : I am an assistant professor in the Department of Education at the Faculty of Social and Behavioral Sciences of Utrecht University. My research focuses on enhancing self-regulated learning (SRL) through examining the effectiveness of instructional support, including the development of instructional materials. In addition, I employ innovative methods using trace data to measure and support SRL through learning analytics (LA).
 
 Para-2 : Before joining Utrecht University, I worked as a postdoctoral researcher in the Delft Institute of Mathematics at the Delft University of Technology, focusing on educational research in the Program for Innovation in Mathematics Education (PRIME). I obtained my PhD (cum laude) and master's (cum laude) in Educational Psychology from Erasmus University Rotterdam. My PhD dissertation on Enhancing Self-Regulated Learning Through Instructional Supports and Learning Analytics in Online Higher Education was awarded the Best Thesis Award 2021 by the Erasmus Graduate School of Social and Behavioral Sciences. 
@@ -13,3 +18,4 @@ Para-3 : My passion for teaching and learning drives my interest in educational 
 Para-4: In my current capacity as an assistant professor in educational sciences, I teach courses on educational psychology, education and ICT, and research methods and skills to students who are and might be taking on roles in the education sector. I enjoy discussing teaching and learning experiences and having students think of concrete examples in which educational theories can be applied. Furthermore, with the increasing use of technology in education, I would like to employ the use of learning analytics and artificial intelligence to enhance our understanding of the learning process and provide individual students with more targeted support.
 
 ---
+
